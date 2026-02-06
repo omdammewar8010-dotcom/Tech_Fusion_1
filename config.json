@@ -1,0 +1,41 @@
+{
+  "app_config": {
+    "title": "AI-Powered Customer Support Assistant",
+    "icon": "🤖",
+    "theme": {
+      "primary_color": "#667eea",
+      "secondary_color": "#764ba2",
+      "background_color": "#ffffff",
+      "text_color": "#1f1f1f"
+    }
+  },
+  "features": {
+    "level_1": {
+      "enabled": true,
+      "features": ["faq_chatbot", "conversation_history", "query_tracking"]
+    },
+    "level_2": {
+      "enabled": true,
+      "features": ["multilingual", "contextual_memory", "feedback_loop", "analytics"]
+    },
+    "level_3": {
+      "enabled": true,
+      "features": ["voice_interaction", "adaptive_learning", "auto_updates"]
+    }
+  },
+  "languages": {
+    "supported": ["English", "Spanish", "French"],
+    "default": "English"
+  },
+  "analytics": {
+    "track_conversations": true,
+    "track_satisfaction": true,
+    "track_topics": true,
+    "export_enabled": false
+  },
+  "contact": {
+    "email": "support@example.com",
+    "phone": "+1-800-123-4567",
+    "hours": "Monday to Friday, 9 AM to 6 PM EST"
+  }
+}
